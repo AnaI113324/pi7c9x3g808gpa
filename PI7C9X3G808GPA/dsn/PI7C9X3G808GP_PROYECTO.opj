@@ -1,0 +1,202 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (SoftwareVersion "25.1 S010 (4374085)  [11/23/2025]-[11/07/26]")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    ("Allegro Netlist Directory" "allegro")
+    (File ".\pi7c9x3g808gp_proyecto.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (DOCKED "TRUE")
+    (DOCKING_POSITION "59420")
+    (NoModify)
+    (ANNOTATE_Scope "0")
+    (ANNOTATE_Mode "0")
+    (ANNOTATE_Action "0")
+    (Annotate_Page_Order "0")
+    (ANNOTATE_Reset_References_to_1 "FALSE")
+    (ANNOTATE_No_Page_Number_Change "FALSE")
+    (ANNOTATE_Property_Combine "{Value}{Source Package}{POWER_GROUP}")
+    (ANNOTATE_IncludeNonPrimitive "FALSE")
+    (ANNOTATE_PreserveDesignator "FALSE")
+    (ANNOTATE_PreserveUserEdits "FALSE")
+    (ANNOTATE_Refdes_Control_Required "FALSE")
+    (Update_Instace_for_External_Design "FALSE")
+    (Annotate_type "Default")
+    (width_pages "100")
+    (width_start "80")
+    (width_End "80"))
+  (Folder "Layout")
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (Folder "PSpice Resources"
+    (Folder "Simulation Profiles")
+    (Folder "Model Libraries"
+      (Sort User))
+    (Folder "Stimulus Files"
+      (Sort User))
+    (Folder "Include Files"
+      (Sort User)))
+  (Folder "Logs")
+  (MPSSessionName "PC")
+  (PartMRUSelector
+    (TitleBlock0
+      (LibraryName "C:\CADENCE\ORCADX_25.1\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\pi7c9x3g808gp_proyecto.dsn")
+      (Path "Design Resources" ".\pi7c9x3g808gp_proyecto.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\pi7c9x3g808gp_proyecto.dsn" "SCHEMATIC1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 0 286 0 658"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 965 24 676")
+        (Scroll "-13 -27")
+        (Zoom "28")
+        (Occurrence "/"))
+      (Path
+         "C:\CADENCE_CIRCUITOS\2026\PI7C9X3G808GPA\DSN\PI7C9X3G808GP_PROYECTO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "1. PAGE_6"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 965 24 676")
+        (Scroll "-13 -27")
+        (Zoom "28")
+        (Occurrence "/"))
+      (Path
+         "C:\CADENCE_CIRCUITOS\2026\PI7C9X3G808GPA\DSN\PI7C9X3G808GP_PROYECTO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "4. PAGE_10"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 965 24 676")
+        (Scroll "-13 -27")
+        (Zoom "28")
+        (Occurrence "/"))
+      (Path
+         "C:\CADENCE_CIRCUITOS\2026\PI7C9X3G808GPA\DSN\PI7C9X3G808GP_PROYECTO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "5. PAGE_11"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 965 24 676")
+        (Scroll "-13 -27")
+        (Zoom "28")
+        (Occurrence "/"))
+      (Path
+         "C:\CADENCE_CIRCUITOS\2026\PI7C9X3G808GPA\DSN\PI7C9X3G808GP_PROYECTO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "6. PAGE_12"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 965 24 676")
+        (Scroll "-13 -27")
+        (Zoom "28")
+        (Occurrence "/"))
+      (Path
+         "C:\CADENCE_CIRCUITOS\2026\PI7C9X3G808GPA\DSN\PI7C9X3G808GP_PROYECTO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "7. PAGE_13"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 965 24 676")
+        (Scroll "-13 -27")
+        (Zoom "28")
+        (Occurrence "/"))
+      (Path
+         "C:\CADENCE_CIRCUITOS\2026\PI7C9X3G808GPA\DSN\PI7C9X3G808GP_PROYECTO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "8. PAGE_14"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 965 24 676")
+        (Scroll "-13 -27")
+        (Zoom "28")
+        (Occurrence "/"))
+      (Path
+         "C:\CADENCE_CIRCUITOS\2026\PI7C9X3G808GPA\DSN\PI7C9X3G808GP_PROYECTO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "9. PAGE_15"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 965 24 676")
+        (Scroll "-13 -27")
+        (Zoom "28")
+        (Occurrence "/"))
+      (Path
+         "C:\CADENCE_CIRCUITOS\2026\PI7C9X3G808GPA\DSN\PI7C9X3G808GP_PROYECTO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "_10. PAGE_16"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 965 24 676")
+        (Scroll "-13 -27")
+        (Zoom "28")
+        (Occurrence "/"))
+      (Path
+         "C:\CADENCE_CIRCUITOS\2026\PI7C9X3G808GPA\DSN\PI7C9X3G808GP_PROYECTO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "_11. PAGE_17"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -1 -1 5 965 24 676")
+        (Scroll "-13 -27")
+        (Zoom "28")
+        (Occurrence "/"))
+      (Path
+         "C:\CADENCE_CIRCUITOS\2026\PI7C9X3G808GPA\DSN\PI7C9X3G808GP_PROYECTO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "_12. PAGE_18"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 965 24 676")
+        (Scroll "-13 -27")
+        (Zoom "28")
+        (Occurrence "/"))
+      (Path
+         "C:\CADENCE_CIRCUITOS\2026\PI7C9X3G808GPA\DSN\PI7C9X3G808GP_PROYECTO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "2. PAGE_7"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 965 24 676")
+        (Scroll "-13 -27")
+        (Zoom "28")
+        (Occurrence "/"))
+      (Path
+         "C:\CADENCE_CIRCUITOS\2026\PI7C9X3G808GPA\DSN\PI7C9X3G808GP_PROYECTO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "3. PAGE_8"))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 5 24 5 965 24 676")
+        (Scroll "-8 -19")
+        (Zoom "60")
+        (Occurrence "/"))
+      (Path
+         "C:\CADENCE_CIRCUITOS\2026\PI7C9X3G808GPA\DSN\PI7C9X3G808GP_PROYECTO.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "0. PAGE_0"))))
