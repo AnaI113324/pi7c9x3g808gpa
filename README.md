@@ -8,9 +8,8 @@ Tarjeta de evaluación (EVB) para el switch PCI Express Gen 3 **PI7C9X3G808GPA**
 Permite probar el switch en un sistema real: se conecta al host por un conector
 de borde (gold fingers) y reparte el enlace hacia varios slots PCIe en la propia tarjeta.
 
-![estado](https://img.shields.io/badge/ruteo-98.9%25-brightgreen)
-![cortos](https://img.shields.io/badge/cortos-0-brightgreen)
-![herramienta](https://img.shields.io/badge/OrCAD%20X-25.1-blue)
+<img width="657" height="284" alt="image" src="https://github.com/user-attachments/assets/81280e43-af68-4d9e-8a40-c8bd69481243" />
+
 
 ---
 
