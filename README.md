@@ -1,8 +1,7 @@
 # pi7c9x3g808gpa
 
-# PCIe Switch PI7C9X3G808GP — Diseño de Esquemático y PCB
 
-# PI7C9X3G808GPA EVB — Tarjeta de evaluación PCIe Gen 3
+# PI7C9X3G808GPA EVB — Tarjeta de evaluación PCIe Gen 3 — Diseño de Esquemático y PCB
 
 Tarjeta de evaluación (EVB) para el switch PCI Express Gen 3 **PI7C9X3G808GPA**.
 Permite probar el switch en un sistema real: se conecta al host por un conector
