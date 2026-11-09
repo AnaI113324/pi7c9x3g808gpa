@@ -25,11 +25,9 @@ de borde (gold fingers) y reparte el enlace hacia varios slots PCIe en la propia
 
 | Etapa | Estado |
 |---|---|
-| Esquemático | ✅ Completo (pendiente un ajuste en PCIe) |
+| Esquemático | ✅ Completo |
 | Colocación de componentes | ✅ 454 / 454 |
 | Ruteo | 🟡 **1246 / 1260 conexiones (98.9 %)** |
 | Cortos | ✅ 0 |
 | Limpieza de DRC (espaciados) | ⏳ Pendiente |
-| Gold fingers (bisel, máscara, keepouts) | ⏳ Pendiente |
-| Serigrafía | ⏳ Pendiente |
-| Gerbers de fabricación | ⏳ Pendiente |
+
