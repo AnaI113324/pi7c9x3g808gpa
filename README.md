@@ -2,32 +2,35 @@
 
 # PCIe Switch PI7C9X3G808GP — Diseño de Esquemático y PCB
 
-## Descripción del proyecto
+# PI7C9X3G808GPA EVB — Tarjeta de evaluación PCIe Gen 3
 
-Proyecto académico desarrollado en **OrCAD X Professional Plus 25.1**, basado en el diseño de referencia del switch PCI Express **PI7C9X3G808GP de Diodes/Pericom**.
+Tarjeta de evaluación (EVB) para el switch PCI Express Gen 3 **PI7C9X3G808GPA**.
+Permite probar el switch en un sistema real: se conecta al host por un conector
+de borde (gold fingers) y reparte el enlace hacia varios slots PCIe en la propia tarjeta.
 
-El objetivo fue adaptar el circuito original para utilizar una conexión PCIe x4 de entrada y distribuir las señales hacia cuatro puertos de salida destinados a unidades de almacenamiento NVMe.
+![estado](https://img.shields.io/badge/ruteo-98.9%25-brightgreen)
+![cortos](https://img.shields.io/badge/cortos-0-brightgreen)
+![herramienta](https://img.shields.io/badge/OrCAD%20X-25.1-blue)
 
-### Modificaciones realizadas
+---
 
-- Adaptación del esquemático de alta velocidad, eliminando interruptores de señal y conexiones innecesarias.
-- Configuración del switch PCIe para una entrada x4 y cuatro salidas x1.
-- Actualización de la etapa de alimentación mediante reguladores DC-DC de Texas Instruments.
-- Integración de símbolos y footprints personalizados.
-- Generación de la netlist y transferencia del diseño a PCB Editor.
-- Distribución inicial de componentes sobre la PCB, reutilizando las dimensiones y referencias mecánicas del diseño original.
+## 🛠️ Herramientas
 
-### Estado del proyecto
+| Herramienta | Uso |
+|---|---|
+| OrCAD X Capture | Esquemático |
+| OrCAD X PCB / Allegro 25.1 | Layout y ruteo |
+| Python (scripts propios) | Apoyo al ruteo y verificación con los Gerbers |
 
-Se completaron las modificaciones principales del esquemático y la colocación preliminar de componentes en la PCB.
+## 📈 Estado del proyecto
 
-**Pendiente:** enrutamiento de señales de alta velocidad y potencia, verificación de integridad de señal, revisión térmica y validación final mediante DRC.
-
-### Herramientas utilizadas
-
-- OrCAD X Capture CIS 25.1
-- OrCAD X PCB Editor
-- Texas Instruments WEBENCH Power Designer
-- Librerías de componentes y footprints personalizados
-
-**Proyecto académico — Electrónica 2 y Diseño Electrónico**
+| Etapa | Estado |
+|---|---|
+| Esquemático | ✅ Completo (pendiente un ajuste en PCIe) |
+| Colocación de componentes | ✅ 454 / 454 |
+| Ruteo | 🟡 **1246 / 1260 conexiones (98.9 %)** |
+| Cortos | ✅ 0 |
+| Limpieza de DRC (espaciados) | ⏳ Pendiente |
+| Gold fingers (bisel, máscara, keepouts) | ⏳ Pendiente |
+| Serigrafía | ⏳ Pendiente |
+| Gerbers de fabricación | ⏳ Pendiente |
